@@ -1,18 +1,15 @@
-# 📦 Raspberry Pi Hologram Capture & Detection System
+# OpenLM: An Open-Source Pixel Super-Resolution Platform for Lens-Free Microscopy
 
-A device control and object detection system designed for capturing holograms using Raspberry Pi and running object detection models like YOLO on the captured images.
-
-## 📸 Overview
-
-This project includes:
-
-- Raspberry Pi camera capture interface.
-- DotStar LED control via GPIO.
-- Server backend using Flask and Flask-SocketIO.
-- Real-time image visualization and object detection with slicing (SAHI).
-- Precision/recall metric evaluation and annotated output visualization.
+OpenLM is an open-source, 3D-printed lens-free microscopy platform combining low-cost hardware with a pixel super-resolution algorithm and user-friendly software for accessible, real-time imaging and analysis across Raspberry Pi and Windows systems.
 
 ---
 
-## 🧱 Directory Structure
+### 📦 Install Dependencies
+1. adafruit-circuitpython-dotstar
+2. rawpy
+3. scipy
+4. flask_socketio
+5. imageio
+6. scikit-image
+7. image_registration
 
