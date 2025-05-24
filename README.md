@@ -87,23 +87,42 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 
 ## 🖥️ GUI Usage Instructions
 
+Here’s an improved and polished version of your GUI section with formatting consistency, clearer language, and Markdown best practices:
+
+---
+
 ### Raspberry Pi GUI
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41488388-7405-4c47-b223-502a17911934" width="450" height="300" alt="Raspberry Pi GUI">
 </p>
 
-1. **Left checkbox:** Select to analyze the captured hologram on a connected desktop.
-2. **Middle checkbox:** Select to perform hologram focusing directly on the Raspberry Pi. (Raspberry Pi 4B or above can handle single hologram focusing but results are not guaranteed.)
-3. **Right checkbox:** Select to enable real-time pixel super-resolution (PSR). Note: The "client" checkbox must be checked to use this option. Real-time PSR significantly reduces processing time for each capture event.
+1. **Left Checkbox** – Enable analysis of the captured hologram on a connected desktop.
+2. **Middle Checkbox** – Perform focusing directly on the Raspberry Pi. *(Note: Raspberry Pi 4B or above is recommended for reliable performance.)*
+3. **Right Checkbox** – Enable **real-time pixel super-resolution (PSR)**.
+
+   > Requires the **"Client"** checkbox to be selected. This significantly reduces processing time during image capture.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86fec282-12ef-4f2c-9caf-b0bf16f5e25e" alt="Optional Settings">
 </p>
 
-4. 
+4. **LED Array Preview** – The effective LEDs used during imaging are highlighted in red:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/698db4ed-451b-473d-9f9c-e3c2b3f5aecd" width="300" alt="LED Array">
+</p>
+
+5. **Current Time Display** – Shows the timestamp of the image currently being processed and displayed.
+
+   > This is especially useful when PSR processing takes longer than the image capture interval.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1c6a0e5-c3bc-4932-995a-9d330dcac1b6" width="400" alt="Current Time Display">
+</p>
 
 ---
+
 
 
 
