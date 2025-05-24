@@ -1,8 +1,8 @@
 ---
 
-# **OpenLM: An Open-Source Pixel Super-Resolution Platform for Lens-Free Microscopy**
+# *OpenLM: An Open-Source Pixel Super-Resolution Platform for Lens-Free Microscopy*
 
-**OpenLM** is an open-source, 3D-printed lens-free microscopy platform that combines low-cost, commercially available components with a pixel super-resolution algorithm. It features a user-friendly interface and supports both **Raspberry Pi OS** and **Windows OS** for camera control, real-time preview, image acquisition, and image processing—no prior expertise in lens-free imaging is required.
+OpenLM is an open-source, 3D-printed lens-free microscopy platform that combines low-cost, commercially available components with a pixel super-resolution algorithm. It features a user-friendly interface and supports both **Raspberry Pi OS** and **Windows OS** for camera control, real-time preview, image acquisition, and image processing—no prior expertise in lens-free imaging is required.
 
 ---
 
