@@ -58,8 +58,7 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 ---
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dbcc9951-33e1-4037-8e34-e30c62840b97" width="800" height="500">
+<img src="https://github.com/user-attachments/assets/41488388-7405-4c47-b223-502a17911934" width="900" height="600">
 <p align="center">
-
 
 
