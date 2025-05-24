@@ -57,11 +57,9 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 
 ---
 
-Let me know if you'd like to add sections for:
-
-* GUI usage instructions
-* System requirements
-* Hardware setup (e.g., wiring diagram or STL files for the 3D print)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c6a06a68-2e58-42e2-8dc4-c67099ed040f" width="800" height="500">
+<p align="center">
 
 
 
