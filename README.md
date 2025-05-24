@@ -62,4 +62,3 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 <p align="center">
 
 
-
