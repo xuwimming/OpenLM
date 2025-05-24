@@ -17,20 +17,20 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
 
 ---
 
-## 🔧 MAterial List
+## 📋 Material List
 
 | Component                      | Quantity   | Price    |
 |-------------------------------|------------|----------|
 | Raspberry Pi Camera Module 2   | 1 unit     | $14.99   |
 | Thorlab 532 nm Filter          | 1 unit     | $164.67  |
 | Adafruit DotStar 8x8 LED array | 1 unit     | $24.95   |
-| Small Neodymium Magnets (6 mm)       | 4 units    | $0.08    |
+| 6mm Neodymium Magnets       | 4 units    | $0.08    |
 | Raspberry Pi 4B                | 1 unit     | $75.00   |
 | PLA for 3D Printed Casing     | 187 g      | $4.68    |
 | **Total**                     |            | **$284.37** |
 
-
 ---
+
 ## 📦 Installation (Dependencies)
 
 Ensure Python and pip are installed, then run:
