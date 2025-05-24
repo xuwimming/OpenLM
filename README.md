@@ -17,6 +17,20 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
 
 ---
 
+## 🔧 MAterial List
+
+| Component                      | Quantity   | Price    |
+|-------------------------------|------------|----------|
+| Raspberry Pi Camera Module 2   | 1 unit     | $14.99   |
+| Thorlab 532 nm Filter          | 1 unit     | $164.67  |
+| Adafruit DotStar 8x8 LED array | 1 unit     | $24.95   |
+| Small Neodymium Magnets (6 mm)       | 4 units    | $0.08    |
+| Raspberry Pi 4B                | 1 unit     | $75.00   |
+| PLA for 3D Printed Casing     | 187 g      | $4.68    |
+| **Total**                     |            | **$284.37** |
+
+
+---
 ## 📦 Installation (Dependencies)
 
 Ensure Python and pip are installed, then run:
@@ -76,7 +90,7 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 ### Raspberry Pi GUI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41488388-7405-4c47-b223-502a17911934" width="900" height="600" alt="Raspberry Pi GUI">
+  <img src="https://github.com/user-attachments/assets/41488388-7405-4c47-b223-502a17911934" width="450" height="300" alt="Raspberry Pi GUI">
 </p>
 
 1. **Left checkbox:** Select to analyze the captured hologram on a connected desktop.
@@ -87,9 +101,10 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
   <img src="https://github.com/user-attachments/assets/86fec282-12ef-4f2c-9caf-b0bf16f5e25e" alt="Optional Settings">
 </p>
 
+4. 
+
 ---
 
-If you want, I can help format more sections or polish the entire README!
 
 
 
