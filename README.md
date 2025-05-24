@@ -1,5 +1,3 @@
-Here’s an improved, polished version of your README snippet, with clearer language, consistent formatting, and some minor grammar fixes:
-
 ---
 
 # *OpenLM: An Open-Source Pixel Super-Resolution Platform for Lens-Free Microscopy*
