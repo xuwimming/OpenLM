@@ -113,7 +113,7 @@ Here’s an improved and polished version of your GUI section with formatting co
   <img src="https://github.com/user-attachments/assets/698db4ed-451b-473d-9f9c-e3c2b3f5aecd" width="300" alt="LED Array">
 </p>
 
-5. **Current Time Display** – Shows the timestamp of the image currently being processed and displayed.
+5. **Current Time Display** – Shows the timestamp of the image currently displayed.
 
    > This is especially useful when PSR processing takes longer than the image capture interval.
 
