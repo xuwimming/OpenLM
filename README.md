@@ -203,8 +203,8 @@ Selected Folder
 
 Single HR hologram capture
 Selected Folder
- ├── 0.jpg and .dng
- ├── 1.jpg and .dng
+ ├── 0.jpg and .dng 
+ ├── 1.jpg and .dng 
  ├── ....   
  └── 63.jpg and .dng
 
