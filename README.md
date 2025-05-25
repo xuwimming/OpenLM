@@ -167,7 +167,5 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 
 ---
 
-Let me know if you'd like a properly formatted `.md` file or help generating citations (e.g., BibTeX or APA).
-
 
    
