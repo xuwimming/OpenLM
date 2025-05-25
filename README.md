@@ -90,14 +90,14 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 ### Raspberry Pi GUI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41488388-7405-4c47-b223-502a17911934" width="450" height="300" alt="Raspberry Pi GUI">
+  <img src="https://github.com/user-attachments/assets/77bfeeb6-46ac-463d-ac7d-ca6f9f518825" width="450" height="300" alt="Raspberry Pi GUI">
 </p>
 
 1. **Left Checkbox** – Enable analysis of the captured hologram on a connected desktop.
 2. **Middle Checkbox** – Perform focusing directly on the Raspberry Pi. *(Note: Raspberry Pi 4B or above is recommended for reliable performance.)*
 3. **Right Checkbox** – Enable **real-time pixel super-resolution (PSR)**.
 
-   > Requires the **"Client"** checkbox to be selected. This significantly reduces processing time during image capture.
+   > Requires the **"Client"** checkbox to be selected. This increases processing time during image capture.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86fec282-12ef-4f2c-9caf-b0bf16f5e25e" alt="Optional Settings">
@@ -122,7 +122,7 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 ### 🖥️ Windows GUI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c4c244bc-6181-4683-aba6-f8f9b38276a7" width="800" alt="Windows GUI">
+  <img src="https://github.com/user-attachments/assets/4f09e244-da2a-4d17-bd45-dc391e5eab31" width="800" alt="Windows GUI">
 </p>
 
 1. **Connection Indicator** – When the connection to the Raspberry Pi is established successfully, the status indicator turns **green**.
