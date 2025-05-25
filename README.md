@@ -199,6 +199,7 @@ Selected Folder
 
 Single LR hologram capture
 Selected Folder
+
 └── Selected file name.jpg and .dng
 
 Single HR hologram capture
