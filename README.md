@@ -144,11 +144,13 @@ Got it! Here's your section with a neat symbol added at the start — a simple f
 ### 🗂️ Save Image Folder Structure
 
 **Single LR Hologram Capture**
+
 Selected Folder
 
 └── Selected file name.jpg and .dng
 
 **Single HR Hologram Capture**
+
 Selected Folder
 
 ├── 0.jpg and 0.dng
@@ -160,6 +162,7 @@ Selected Folder
 └── 63.jpg and 63.dng
 
 **Time-Lapse Hologram Capture**
+
 Selected Folder
 
 ├── 0
@@ -177,7 +180,9 @@ Selected Folder
 ├── ...
 
 └── N
+
     ├── 28 jpg files
+    
     └── 28 dng files
 
 ---
@@ -209,27 +214,5 @@ Selected Folder
 
 
 ---
-
-Single LR hologram capture
-Selected Folder
-
-└── Selected file name.jpg and .dng
-
-Single HR hologram capture
-Selected Folder
- ├── 0.jpg and .dng 
- ├── 1.jpg and .dng 
- ├── ....   
- └── 63.jpg and .dng
-
-Time lapse hologram capture
-Selected Folder
- ├── 0
- │    └── 28 jpg files and 28 dng files
- ├── 1
- │    └── 28 jpg files and 28 dng files
- ├── ....   
- └── N
-      └── 28 jpg files and 28 dng files
 
    
