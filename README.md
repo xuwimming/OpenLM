@@ -181,9 +181,9 @@ Selected Folder
 
 ├── N    
 
-    ├── 28 jpg files
-    
-    └── 28 dng files
+│   ├── 28 jpg files
+
+│   └── 28 dng files
 
 ---
 
