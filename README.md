@@ -137,6 +137,36 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
      <img src="https://github.com/user-attachments/assets/11136239-55ce-4d2b-b063-4ec5bcbf6873" width="400" alt="Frame Setting">
    </p>
 
+Got it! Here's your section with a neat symbol added at the start — a simple folder emoji 📁 fits nicely for folder structure sections:
+
+---
+
+### 🗂️ Save Image Folder Structure
+
+**Single LR Hologram Capture**
+Selected Folder
+└── Selected file name.jpg and .dng
+
+**Single HR Hologram Capture**
+Selected Folder
+├── 0.jpg and 0.dng
+├── 1.jpg and 1.dng
+├── ...
+└── 63.jpg and 63.dng
+
+**Time-Lapse Hologram Capture**
+Selected Folder
+├── 0
+│   ├── 28 jpg files
+│   └── 28 dng files
+├── 1
+│   ├── 28 jpg files
+│   └── 28 dng files
+├── ...
+└── N
+    ├── 28 jpg files
+    └── 28 dng files
+
 ---
 
 ### 📁 Additional Files
