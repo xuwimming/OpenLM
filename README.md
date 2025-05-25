@@ -128,6 +128,7 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 1. **Connection Indicator** – When the connection to the Raspberry Pi is established successfully, the status indicator turns **green**.
 
    <p align="center">
+     <img src="https://github.com/user-attachments/assets/b588457b-f132-4ae5-b140-572c56002f62" width="300" alt="Disconnection Indicator">
      <img src="https://github.com/user-attachments/assets/c24ba83f-06c6-4e23-b7be-e4fda69f1d8f" width="300" alt="Connection Indicator">
    </p>
 
