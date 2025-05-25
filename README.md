@@ -129,6 +129,7 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 
    <p align="center">
      <img src="https://github.com/user-attachments/assets/b588457b-f132-4ae5-b140-572c56002f62" height = "100" width="300" alt="Disconnection Indicator">
+     &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
      <img src="https://github.com/user-attachments/assets/c863e767-bc1b-42f9-a0cd-adf7d44c61bf" height = "100" width="300" alt="Connection Indicator">
    </p>
 
