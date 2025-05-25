@@ -85,8 +85,6 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 
 ## 🖥️ GUI Usage Instructions
 
-Here’s an improved and polished version of your GUI section with formatting consistency, clearer language, and Markdown best practices:
-
 ---
 
 ### Raspberry Pi GUI
@@ -121,7 +119,24 @@ Here’s an improved and polished version of your GUI section with formatting co
 
 ---
 
+### 🖥️ Windows GUI
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4c244bc-6181-4683-aba6-f8f9b38276a7" width="800" alt="Windows GUI">
+</p>
 
+1. **Connection Indicator** – When the connection to the Raspberry Pi is established successfully, the status indicator turns **green**.
+
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/c24ba83f-06c6-4e23-b7be-e4fda69f1d8f" width="300" alt="Connection Indicator">
+   </p>
+
+2. **Frames** – Specifies the number of frames the user wishes to process.
+
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/11136239-55ce-4d2b-b063-4ec5bcbf6873" width="400" alt="Frame Setting">
+   </p>
+
+---
 
 
