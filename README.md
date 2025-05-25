@@ -165,25 +165,25 @@ Selected Folder
 
 Selected Folder
 
-├── 0
+│  ├── 0
 
-│   ├── 28 jpg files
+│  │   ├── 28 jpg files
 
-│   └── 28 dng files
+│  │   └── 28 dng files
 
-├── 1
+│  ├── 1
 
-│   ├── 28 jpg files
+│  │   ├── 28 jpg files
 
-│   └── 28 dng files
+│  │   └── 28 dng files
 
-├── ...
+│  ├── ...
 
-├── N    
+│  ├── N    
 
-│   ├── 28 jpg files
+│  │   ├── 28 jpg files
 
-│   └── 28 dng files
+│  │   └── 28 dng files
 
 ---
 
