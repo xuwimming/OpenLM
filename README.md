@@ -153,13 +153,13 @@ Selected Folder
 
 Selected Folder
 
-  ├── 0.jpg and 0.dng
+│  ├── 0.jpg and 0.dng
 
-  ├── 1.jpg and 1.dng
+│  ├── 1.jpg and 1.dng
 
-  ├── ...
+│  ├── ...
 
-  └── 63.jpg and 63.dng
+│  └── 63.jpg and 63.dng
 
 **Time-Lapse Hologram Capture**
 
