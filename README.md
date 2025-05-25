@@ -128,10 +128,15 @@ sudo mount -t cifs //YourPCName/SharedFolder ~/shared -o username=YourWindowsUse
 1. **Connection Indicator** – When the connection to the Raspberry Pi is established successfully, the status indicator turns **green**.
 
    <p align="center">
-     <img src="https://github.com/user-attachments/assets/b588457b-f132-4ae5-b140-572c56002f62" height = "100" width="300" alt="Disconnection Indicator">
-     &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-     <img src="https://github.com/user-attachments/assets/c863e767-bc1b-42f9-a0cd-adf7d44c61bf" height = "100" width="300" alt="Connection Indicator">
-   </p>
+    <table align="center" cellspacing="10" cellpadding="0" style="border:none;">
+      <tr>
+        <td><img src="https://github.com/user-attachments/assets/b588457b-f132-4ae5-b140-572c56002f62" height="100" width="300" alt="Disconnection Indicator"></td>
+        <td style="vertical-align: middle; font-size: 40px;">➡️</td>
+        <td><img src="https://github.com/user-attachments/assets/c863e767-bc1b-42f9-a0cd-adf7d44c61bf" height="100" width="300" alt="Connection Indicator"></td>
+      </tr>
+    </table>
+    </p>
+
 
 2. **Frames** – Specifies the number of frames the user wishes to process.
 
