@@ -32,7 +32,7 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
 ## 🧰 Removing the Lens from Raspberry Pi Camera 2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/abfd6437-fbbc-4154-af8c-99cba1152e94" width="450" height="300" alt="Remove Lens">
+  <img src="https://github.com/user-attachments/assets/abfd6437-fbbc-4154-af8c-99cba1152e94" alt="Remove Lens">
 </p>
 
 The red arrows indicate the glue line between the Raspberry Pi Camera 2’s CMOS sensor and lens unit. To remove the lens unit from the top of the CMOS, carefully cut along the glue line using a blade. Note that the lens unit has thin plastic walls, so extra caution is needed during removal to avoid damage.
