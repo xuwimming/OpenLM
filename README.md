@@ -35,7 +35,7 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
   <img src="https://github.com/user-attachments/assets/3f2cf485-f24f-4ce6-b957-0c368e219eac" alt="Workflow">
 </p>
 
-A–B. Insert four neodymium magnets into the Raspberry Pi cover and the platform holder — two in each part.
+A–B. Insert four neodymium magnets into the Raspberry Pi cover and the platform holder — two in each part. |
 C. Connect the LED array to the Raspberry Pi.
 D. Insert the optical filter into the filter tray on the platform.
 E. Mount the LED array and Raspberry Pi onto the platform. The small alignment pegs on the platform fit into corresponding holes on the LED array and Raspberry Pi 4B, securing their positions.
