@@ -29,10 +29,10 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
 
 ---
 
-🛠️ OpenLM Assembly Workflow
+## 🛠️ OpenLM Assembly Workflow
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86ce7bf7-3284-458b-a3c2-0536c4ce08ea" width="450" alt="Workflow">
+  <img src="https://github.com/user-attachments/assets/3f2cf485-f24f-4ce6-b957-0c368e219eac" alt="Workflow">
 </p>
 
 A–B. Insert four neodymium magnets into the Raspberry Pi cover and the platform holder — two in each part.
