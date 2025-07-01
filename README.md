@@ -240,6 +240,7 @@ Selected Folder
 
 4. **`Post_Processing.ipynb`** (in the `Windows Application` folder)
    This notebook batch-processes all captured frames and compiles a time-lapse video.
+   
    ⚠️ *Important:* If real-time processing is enabled, the application will continue running until all captured frames are processed. For back-to-back experiments, we recommend capturing all images first and then performing post-processing afterward using this notebook.
 
 ---
