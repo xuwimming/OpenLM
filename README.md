@@ -225,12 +225,13 @@ Selected Folder
 
 1. **`Shifting_Map_Generation.ipynb`** (located in the `Windows Application` folder)
    This notebook is used to generate a high-accuracy shifting map for high-resolution (HR) image reconstruction. While the main application can also generate a shifting map, we **highly recommend** using this notebook for more accurate results.
+   
    🔹 *Note:* Each focusing object from a different depth requires its corresponding shifting map.
 
-2. **Focal Plane Estimation**
+3. **Focal Plane Estimation**
    The same notebook also estimates the optimal focal plane of the target object. Updating the focus setting through the GUI based on this estimation can significantly improve the accuracy and speed of the reconstruction algorithm.
 
-3. **Modify Focal Plane Start Value**
+4. **Modify Focal Plane Start Value**
    Update the `z_start` value in the `OpenLMlib.py` file, inside the `imageReconstruction_unknownZ_loop` function.
    This value corresponds to the estimated focal plane of the low-resolution hologram and should be set based on the result from `Shifting_Map_Generation.ipynb`.
 
@@ -238,7 +239,7 @@ Selected Folder
      <img src="https://github.com/user-attachments/assets/ce9cdef6-5d96-475f-9483-bc079d5ce540" width="600" alt="Focal Plane GUI">
    </p>
 
-4. **`Post_Processing.ipynb`** (in the `Windows Application` folder)
+5. **`Post_Processing.ipynb`** (in the `Windows Application` folder)
    This notebook batch-processes all captured frames and compiles a time-lapse video.
    
    ⚠️ *Important:* If real-time processing is enabled, the application will continue running until all captured frames are processed. For back-to-back experiments, we recommend capturing all images first and then performing post-processing afterward using this notebook.
