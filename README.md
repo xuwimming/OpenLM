@@ -29,6 +29,21 @@ OpenLM is a fully open-source, 3D-printed lens-free microscopy platform that int
 
 ---
 
+🛠️ OpenLM Assembly Workflow
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86ce7bf7-3284-458b-a3c2-0536c4ce08ea" width="450" alt="Workflow">
+</p>
+
+A–B. Insert four neodymium magnets into the Raspberry Pi cover and the platform holder — two in each part.
+C. Connect the LED array to the Raspberry Pi.
+D. Insert the optical filter into the filter tray on the platform.
+E. Mount the LED array and Raspberry Pi onto the platform. The small alignment pegs on the platform fit into corresponding holes on the LED array and Raspberry Pi 4B, securing their positions.
+F. Attach the camera module to the platform. Alignment pegs will hold the module in place. Route the camera cable through the designated slot and connect it to the camera port on the Raspberry Pi.
+G. Cover the illumination module and Raspberry Pi with their respective covers to isolate and protect the illumination system.
+
+---
+
 ## 🧰 Removing the Lens from Raspberry Pi Camera 2
 
 <p align="center">
