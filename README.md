@@ -248,6 +248,14 @@ Selected Folder
 
 ### 📚 Citation
 
+@software{OpenLM_2025,
+  title        = {OpenLM},
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.15848567},
+  url          = {https://doi.org/10.5281/zenodo.15848567}
+}
 
 ---
 
